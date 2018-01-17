@@ -1,3 +1,3 @@
 <?php echo "Hello World!";?>
 
-<?php echo "Hello again!";?>
+<?php echo "Hello twice!";?>
